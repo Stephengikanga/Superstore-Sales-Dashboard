@@ -1,2 +1,6 @@
 # Superstore-Sales-Dashboard
 Excel dashboard analysing 10,000+ sales records across regions, categories and customer segments
+**Project Overview** 
+This project analyzes 9,995 sales records from a superstore operating across four regions in the United States between 2014 and 2017. The goal was to identify which products, regions, categories and customer segments drive the most value and which areas need improvement. The analysis was conducted entirely in Microsoft Excel using data cleaning, pivot tables, KPI calculations and interactive dashboard design.
+**Skills Demonstrated**
+This project demonstrates proficiency in data cleaning and validation, identifying and resolving mixed date formats and inconsistencies across 9,995 rows. Key performance indicators were calculated including Total Sales, Total Profit, Total Orders and Profit Margin. Pivot tables were used to analyze performance across regions, categories, products and customer segments. Five interactive charts were designed following professional dashboard principles including appropriate chart selection, consistent color themes and business focused titles. The project concludes with six data driven business insights and recommendations.
